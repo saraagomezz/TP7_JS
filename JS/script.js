@@ -7,3 +7,4 @@ let num2S=2;
 function suma (num1S, num2S){
     return (num1S+num2S);
 }
+console.log(suma(num1S, num2S));
