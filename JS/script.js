@@ -16,3 +16,4 @@ let num2R=10;
 function resta (num1R, num2R){
     return (num1R-num2R);
 }
+console.log(suma(num1S, num2S));
