@@ -12,3 +12,4 @@ console.log(suma(num1S, num2S));
 
 //#region resta
 let num1R=20;
+let num2R=10;
