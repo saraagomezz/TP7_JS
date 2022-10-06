@@ -23,5 +23,5 @@ console.log(resta(num1R, num2R));
 let num1M= 8; 
 let num2M= 5; 
 function multip (num1M, num2M){
-    
+    return (num1M*num2M);
 }
