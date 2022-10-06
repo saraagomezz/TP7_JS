@@ -20,3 +20,4 @@ console.log(resta(num1R, num2R));
 //#endregion
 
 //#region mult
+let num1M= 8; 
