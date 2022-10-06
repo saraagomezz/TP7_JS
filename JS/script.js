@@ -26,3 +26,4 @@ function multip (num1M, num2M){
     return (num1M*num2M);
 }
 console.log(multip(num1M,num2M));
+//#endregionendregion 
