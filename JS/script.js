@@ -9,3 +9,5 @@ function suma (num1S, num2S){
 }
 console.log(suma(num1S, num2S));
 //#endregion
+
+//#region resta
