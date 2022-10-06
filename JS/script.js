@@ -31,3 +31,4 @@ console.log(multip(num1M,num2M));
 //#endregion
 
 //#region div
+let num1D=70; 
