@@ -18,3 +18,5 @@ function resta (num1R, num2R){
 }
 console.log(resta(num1R, num2R));
 //#endregion
+
+//#region mult
