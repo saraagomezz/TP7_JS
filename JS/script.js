@@ -34,5 +34,5 @@ console.log(multip(num1M,num2M));
 let num1D=70; 
 let num2D=2; 
 function div(num1D, num2D) {
-    
+    return (num1D / num2D);
 }
