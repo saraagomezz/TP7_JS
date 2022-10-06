@@ -14,5 +14,5 @@ console.log(suma(num1S, num2S));
 let num1R=20;
 let num2R=10;
 function resta (num1R, num2R){
-    
+    return (num1R-num2R);
 }
